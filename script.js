@@ -16,4 +16,4 @@ setInterval(() => {
 }, 5000);
 setInterval(() => {
   mobile2.style.opacity = "1";
-}, 10000);
+}, 10001);
