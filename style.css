@@ -416,3 +416,9 @@ a{
         display: none;
     }
 }
+#rupture{
+    position: absolute;
+    top: 15%;
+    left: 50%;
+    transform: translate(-50%);
+}
