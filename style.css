@@ -72,6 +72,11 @@ body{
     left: 50%;
     transform: translateX(-50%);
 }
+#pub{
+    position: relative;
+    left: 50%;
+    transform: translate(-50%);
+}
 .catspan{
     margin: 30px;
     cursor: pointer;
